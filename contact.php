@@ -299,7 +299,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/maths"
+          href="file:////subject/maths"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Mathematics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Mathematics&quot;&#x7D;"
@@ -314,7 +314,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/business"
+          href="file:////subject/business"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Business&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Business&quot;&#x7D;"
@@ -329,7 +329,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/humanities"
+          href="file:////subject/humanities"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Humanities&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Humanities&quot;&#x7D;"
@@ -344,7 +344,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/engineering"
+          href="file:////subject/engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Engineering&quot;&#x7D;"
@@ -359,7 +359,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/science"
+          href="file:////subject/science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Science&quot;&#x7D;"
@@ -374,7 +374,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/education"
+          href="file:////subject/education"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Education&#x20;&amp;&#x20;Teaching&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Education&#x20;&amp;&#x20;Teaching&quot;&#x7D;"
@@ -389,7 +389,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/social-sciences"
+          href="file:////subject/social-sciences"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Social&#x20;Sciences&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Social&#x20;Sciences&quot;&#x7D;"
@@ -404,7 +404,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/art-and-design"
+          href="file:////subject/art-and-design"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Art&#x20;&amp;&#x20;Design&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Art&#x20;&amp;&#x20;Design&quot;&#x7D;"
@@ -419,7 +419,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/data-science"
+          href="file:////subject/data-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Data&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Data&#x20;Science&quot;&#x7D;"
@@ -434,7 +434,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/programming-and-software-development"
+          href="file:////subject/programming-and-software-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Programming&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Programming&quot;&#x7D;"
@@ -449,7 +449,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/personal-development"
+          href="file:////subject/personal-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Personal&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Personal&#x20;Development&quot;&#x7D;"
@@ -464,7 +464,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/infosec"
+          href="file:////subject/infosec"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Information&#x20;Security&#x20;&#x28;InfoSec&#x29;&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Information&#x20;Security&#x20;&#x28;InfoSec&#x29;&quot;&#x7D;"
@@ -846,7 +846,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/internet-of-things"
+          href="file:////subject/internet-of-things"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Internet&#x20;of&#x20;Things&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Internet&#x20;of&#x20;Things&quot;&#x7D;"
@@ -858,7 +858,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/information-technology"
+          href="file:////subject/information-technology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Information&#x20;Technology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Information&#x20;Technology&quot;&#x7D;"
@@ -870,7 +870,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/computer-networking"
+          href="file:////subject/computer-networking"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Computer&#x20;Networking&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Computer&#x20;Networking&quot;&#x7D;"
@@ -882,7 +882,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/machine-learning"
+          href="file:////subject/machine-learning"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Machine&#x20;Learning&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Machine&#x20;Learning&quot;&#x7D;"
@@ -906,7 +906,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/deep-learning"
+          href="file:////subject/deep-learning"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Deep&#x20;Learning&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Deep&#x20;Learning&quot;&#x7D;"
@@ -918,7 +918,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/cryptography"
+          href="file:////subject/cryptography"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Cryptography&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Cryptography&quot;&#x7D;"
@@ -930,7 +930,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/quantum-computing"
+          href="file:////subject/quantum-computing"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Quantum&#x20;Computing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Quantum&#x20;Computing&quot;&#x7D;"
@@ -942,7 +942,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/hci"
+          href="file:////subject/hci"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Human-Computer&#x20;Interaction&#x20;&#x28;HCI&#x29;&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Human-Computer&#x20;Interaction&#x20;&#x28;HCI&#x29;&quot;&#x7D;"
@@ -954,7 +954,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/distributed-systems"
+          href="file:////subject/distributed-systems"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Distributed&#x20;Systems&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Distributed&#x20;Systems&quot;&#x7D;"
@@ -966,7 +966,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/blockchain"
+          href="file:////subject/blockchain"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Blockchain&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Blockchain&#x20;Development&quot;&#x7D;"
@@ -978,7 +978,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/operating-systems"
+          href="file:////subject/operating-systems"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Operating&#x20;Systems&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Operating&#x20;Systems&quot;&#x7D;"
@@ -990,7 +990,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/computer-graphics"
+          href="file:////subject/computer-graphics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Computer&#x20;Graphics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Computer&#x20;Graphics&quot;&#x7D;"
@@ -1047,7 +1047,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/disease-and-disorders"
+          href="file:////subject/disease-and-disorders"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Disease&#x20;&amp;&#x20;Disorders&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Disease&#x20;&amp;&#x20;Disorders&quot;&#x7D;"
@@ -1059,7 +1059,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/public-health"
+          href="file:////subject/public-health"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Public&#x20;Health&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Public&#x20;Health&quot;&#x7D;"
@@ -1071,7 +1071,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/health-care"
+          href="file:////subject/health-care"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Health&#x20;Care&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Health&#x20;Care&quot;&#x7D;"
@@ -1083,7 +1083,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/nursing"
+          href="file:////subject/nursing"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Nursing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Nursing&quot;&#x7D;"
@@ -1095,7 +1095,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/anatomy"
+          href="file:////subject/anatomy"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Anatomy&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Anatomy&quot;&#x7D;"
@@ -1107,7 +1107,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/veterinary-science"
+          href="file:////subject/veterinary-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Veterinary&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Veterinary&#x20;Science&quot;&#x7D;"
@@ -1119,7 +1119,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/cme"
+          href="file:////subject/cme"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Continuing&#x20;Medical&#x20;Education&#x20;&#x28;CME&#x29;&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Continuing&#x20;Medical&#x20;Education&#x20;&#x28;CME&#x29;&quot;&#x7D;"
@@ -1164,7 +1164,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/statistics"
+          href="file:////subject/statistics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Statistics&#x20;&amp;&#x20;Probability&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Statistics&#x20;&amp;&#x20;Probability&quot;&#x7D;"
@@ -1176,7 +1176,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/foundations-of-mathematics"
+          href="file:////subject/foundations-of-mathematics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Foundations&#x20;of&#x20;Mathematics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Foundations&#x20;of&#x20;Mathematics&quot;&#x7D;"
@@ -1188,7 +1188,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/calculus"
+          href="file:////subject/calculus"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Calculus&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Calculus&quot;&#x7D;"
@@ -1212,7 +1212,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/trigonometry"
+          href="file:////subject/trigonometry"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Trigonometry&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Trigonometry&quot;&#x7D;"
@@ -1224,7 +1224,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/geometry"
+          href="file:////subject/geometry"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Geometry&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Geometry&quot;&#x7D;"
@@ -1236,7 +1236,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/algebra"
+          href="file:////subject/algebra"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Algebra&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Algebra&quot;&#x7D;"
@@ -1248,7 +1248,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/precalculus"
+          href="file:////subject/precalculus"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Precalculus&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Precalculus&quot;&#x7D;"
@@ -1260,7 +1260,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/number-theory"
+          href="file:////subject/number-theory"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Number&#x20;Theory&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Number&#x20;Theory&quot;&#x7D;"
@@ -1272,7 +1272,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/combinatorics"
+          href="file:////subject/combinatorics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Combinatorics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Combinatorics&quot;&#x7D;"
@@ -1284,7 +1284,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/mathematical-logic"
+          href="file:////subject/mathematical-logic"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Mathematical&#x20;logic&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Mathematical&#x20;logic&quot;&#x7D;"
@@ -1296,7 +1296,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/linear-programming"
+          href="file:////subject/linear-programming"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Linear&#x20;Programming&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Linear&#x20;Programming&quot;&#x7D;"
@@ -1308,7 +1308,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/maths"
+          href="file:////subject/maths"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Mathematics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Mathematics&quot;&#x7D;"
@@ -1341,7 +1341,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/management-and-leadership"
+          href="file:////subject/management-and-leadership"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Management&#x20;&amp;&#x20;Leadership&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Management&#x20;&amp;&#x20;Leadership&quot;&#x7D;"
@@ -1353,7 +1353,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/finance"
+          href="file:////subject/finance"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Finance&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Finance&quot;&#x7D;"
@@ -1365,7 +1365,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/entrepreneurship"
+          href="file:////subject/entrepreneurship"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Entrepreneurship&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Entrepreneurship&quot;&#x7D;"
@@ -1377,7 +1377,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/marketing"
+          href="file:////subject/marketing"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Marketing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Marketing&quot;&#x7D;"
@@ -1389,7 +1389,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/strategic-management"
+          href="file:////subject/strategic-management"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Strategic&#x20;Management&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Strategic&#x20;Management&quot;&#x7D;"
@@ -1401,7 +1401,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/industry-specific"
+          href="file:////subject/industry-specific"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Industry&#x20;Specific&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Industry&#x20;Specific&quot;&#x7D;"
@@ -1413,7 +1413,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/business-intelligence"
+          href="file:////subject/business-intelligence"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Business&#x20;Intelligence&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Business&#x20;Intelligence&quot;&#x7D;"
@@ -1425,7 +1425,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/accounting"
+          href="file:////subject/accounting"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Accounting&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Accounting&quot;&#x7D;"
@@ -1437,7 +1437,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/human-resources"
+          href="file:////subject/human-resources"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Human&#x20;Resources&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Human&#x20;Resources&quot;&#x7D;"
@@ -1449,7 +1449,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/project-management"
+          href="file:////subject/project-management"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Project&#x20;Management&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Project&#x20;Management&quot;&#x7D;"
@@ -1461,7 +1461,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/sales"
+          href="file:////subject/sales"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Sales&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Sales&quot;&#x7D;"
@@ -1473,7 +1473,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/design-thinking"
+          href="file:////subject/design-thinking"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Design&#x20;Thinking&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Design&#x20;Thinking&quot;&#x7D;"
@@ -1485,7 +1485,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/business-software"
+          href="file:////subject/business-software"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Business&#x20;Software&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Business&#x20;Software&quot;&#x7D;"
@@ -1497,7 +1497,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/risk-management"
+          href="file:////subject/risk-management"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Risk&#x20;Management&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Risk&#x20;Management&quot;&#x7D;"
@@ -1509,7 +1509,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/csr"
+          href="file:////subject/csr"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Corporate&#x20;Social&#x20;Responsibility&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Corporate&#x20;Social&#x20;Responsibility&quot;&#x7D;"
@@ -1521,7 +1521,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/customer-service"
+          href="file:////subject/customer-service"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Customer&#x20;Service&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Customer&#x20;Service&quot;&#x7D;"
@@ -1533,7 +1533,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/nonprofit"
+          href="file:////subject/nonprofit"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Nonprofit&#x20;Management&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Nonprofit&#x20;Management&quot;&#x7D;"
@@ -1545,7 +1545,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/innovation"
+          href="file:////subject/innovation"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Innovation&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Innovation&quot;&#x7D;"
@@ -1557,7 +1557,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/operations-management"
+          href="file:////subject/operations-management"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Operations&#x20;Management&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Operations&#x20;Management&quot;&#x7D;"
@@ -1569,7 +1569,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/business"
+          href="file:////subject/business"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Business&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Business&quot;&#x7D;"
@@ -1602,7 +1602,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/history"
+          href="file:////subject/history"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;History&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;History&quot;&#x7D;"
@@ -1614,7 +1614,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/literature"
+          href="file:////subject/literature"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Literature&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Literature&quot;&#x7D;"
@@ -1626,7 +1626,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/language-learning"
+          href="file:////subject/language-learning"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Language&#x20;Learning&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Language&#x20;Learning&quot;&#x7D;"
@@ -1638,7 +1638,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/grammar-writing"
+          href="file:////subject/grammar-writing"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Grammar&#x20;&amp;&#x20;Writing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Grammar&#x20;&amp;&#x20;Writing&quot;&#x7D;"
@@ -1650,7 +1650,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/philosophy"
+          href="file:////subject/philosophy"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Philosophy&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Philosophy&quot;&#x7D;"
@@ -1662,7 +1662,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/religion"
+          href="file:////subject/religion"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Religion&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Religion&quot;&#x7D;"
@@ -1674,7 +1674,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/esl"
+          href="file:////subject/esl"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;ESL&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;ESL&quot;&#x7D;"
@@ -1686,7 +1686,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/culture"
+          href="file:////subject/culture"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Culture&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Culture&quot;&#x7D;"
@@ -1698,7 +1698,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/sports"
+          href="file:////subject/sports"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Sports&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Sports&quot;&#x7D;"
@@ -1710,7 +1710,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/journalism"
+          href="file:////subject/journalism"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Journalism&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Journalism&quot;&#x7D;"
@@ -1722,7 +1722,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/ethics"
+          href="file:////subject/ethics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Ethics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Ethics&quot;&#x7D;"
@@ -1734,7 +1734,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/linguistics"
+          href="file:////subject/linguistics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Linguistics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Linguistics&quot;&#x7D;"
@@ -1746,7 +1746,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/food"
+          href="file:////subject/food"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Food&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Food&quot;&#x7D;"
@@ -1758,7 +1758,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/library-science"
+          href="file:////subject/library-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Library&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Library&#x20;Science&quot;&#x7D;"
@@ -1770,7 +1770,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/reading"
+          href="file:////subject/reading"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Reading&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Reading&quot;&#x7D;"
@@ -1782,7 +1782,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/crisis-management"
+          href="file:////subject/crisis-management"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Crisis&#x20;Management&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Crisis&#x20;Management&quot;&#x7D;"
@@ -1794,7 +1794,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/humanities"
+          href="file:////subject/humanities"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Humanities&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Humanities&quot;&#x7D;"
@@ -1827,7 +1827,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/electrical-engineering"
+          href="file:////subject/electrical-engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Electrical&#x20;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Electrical&#x20;Engineering&quot;&#x7D;"
@@ -1839,7 +1839,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/mechanical-engineering"
+          href="file:////subject/mechanical-engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Mechanical&#x20;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Mechanical&#x20;Engineering&quot;&#x7D;"
@@ -1851,7 +1851,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/civil-engineering"
+          href="file:////subject/civil-engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Civil&#x20;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Civil&#x20;Engineering&quot;&#x7D;"
@@ -1863,7 +1863,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/robotics"
+          href="file:////subject/robotics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Robotics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Robotics&quot;&#x7D;"
@@ -1875,7 +1875,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/nanotechnology"
+          href="file:////subject/nanotechnology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Nanotechnology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Nanotechnology&quot;&#x7D;"
@@ -1887,7 +1887,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/gis"
+          href="file:////subject/gis"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;GIS&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;GIS&quot;&#x7D;"
@@ -1899,7 +1899,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/textiles"
+          href="file:////subject/textiles"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Textiles&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Textiles&quot;&#x7D;"
@@ -1911,7 +1911,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/manufacturing"
+          href="file:////subject/manufacturing"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Manufacturing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Manufacturing&quot;&#x7D;"
@@ -1923,7 +1923,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/bim"
+          href="file:////subject/bim"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;BIM&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;BIM&quot;&#x7D;"
@@ -1935,7 +1935,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/cad"
+          href="file:////subject/cad"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;CAD&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;CAD&quot;&#x7D;"
@@ -1947,7 +1947,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/chemical-engineering"
+          href="file:////subject/chemical-engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Chemical&#x20;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Chemical&#x20;Engineering&quot;&#x7D;"
@@ -1959,7 +1959,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/energy-systems"
+          href="file:////subject/energy-systems"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Energy&#x20;Systems&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Energy&#x20;Systems&quot;&#x7D;"
@@ -1971,7 +1971,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/aerospace-engineering"
+          href="file:////subject/aerospace-engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Aerospace&#x20;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Aerospace&#x20;Engineering&quot;&#x7D;"
@@ -1983,7 +1983,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/engineering"
+          href="file:////subject/engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Engineering&quot;&#x7D;"
@@ -2016,7 +2016,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/chemistry"
+          href="file:////subject/chemistry"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Chemistry&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Chemistry&quot;&#x7D;"
@@ -2028,7 +2028,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/physics"
+          href="file:////subject/physics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Physics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Physics&quot;&#x7D;"
@@ -2040,7 +2040,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/environmental-science"
+          href="file:////subject/environmental-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Environmental&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Environmental&#x20;Science&quot;&#x7D;"
@@ -2052,7 +2052,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/astronomy"
+          href="file:////subject/astronomy"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Astronomy&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Astronomy&quot;&#x7D;"
@@ -2064,7 +2064,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/biology"
+          href="file:////subject/biology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Biology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Biology&quot;&#x7D;"
@@ -2076,7 +2076,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/agriculture"
+          href="file:////subject/agriculture"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Agriculture&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Agriculture&quot;&#x7D;"
@@ -2088,7 +2088,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/materials-science"
+          href="file:////subject/materials-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Materials&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Materials&#x20;Science&quot;&#x7D;"
@@ -2100,7 +2100,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/earth-science"
+          href="file:////subject/earth-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Earth&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Earth&#x20;Science&quot;&#x7D;"
@@ -2112,7 +2112,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/applied-science"
+          href="file:////subject/applied-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Applied&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Applied&#x20;Science&quot;&#x7D;"
@@ -2124,7 +2124,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/forensic-science"
+          href="file:////subject/forensic-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Forensic&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Forensic&#x20;Science&quot;&#x7D;"
@@ -2136,7 +2136,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/science"
+          href="file:////subject/science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Science&quot;&#x7D;"
@@ -2169,7 +2169,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/k12"
+          href="file:////subject/k12"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;K12&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;K12&quot;&#x7D;"
@@ -2181,7 +2181,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/higher-education"
+          href="file:////subject/higher-education"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Higher&#x20;Education&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Higher&#x20;Education&quot;&#x7D;"
@@ -2193,7 +2193,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/stem"
+          href="file:////subject/stem"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;STEM&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;STEM&quot;&#x7D;"
@@ -2205,7 +2205,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/teacher-development"
+          href="file:////subject/teacher-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Teacher&#x20;Professional&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Teacher&#x20;Professional&#x20;Development&quot;&#x7D;"
@@ -2217,7 +2217,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/course-development"
+          href="file:////subject/course-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Course&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Course&#x20;Development&quot;&#x7D;"
@@ -2229,7 +2229,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/online-education"
+          href="file:////subject/online-education"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Online&#x20;Education&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Online&#x20;Education&quot;&#x7D;"
@@ -2241,7 +2241,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/test-prep"
+          href="file:////subject/test-prep"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Test&#x20;Prep&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Test&#x20;Prep&quot;&#x7D;"
@@ -2253,7 +2253,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/pedagogy"
+          href="file:////subject/pedagogy"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Pedagogy&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Pedagogy&quot;&#x7D;"
@@ -2265,7 +2265,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/education"
+          href="file:////subject/education"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Education&#x20;&amp;&#x20;Teaching&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Education&#x20;&amp;&#x20;Teaching&quot;&#x7D;"
@@ -2298,7 +2298,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/sociology"
+          href="file:////subject/sociology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Sociology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Sociology&quot;&#x7D;"
@@ -2310,7 +2310,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/economics"
+          href="file:////subject/economics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Economics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Economics&quot;&#x7D;"
@@ -2322,7 +2322,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/psychology"
+          href="file:////subject/psychology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Psychology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Psychology&quot;&#x7D;"
@@ -2334,7 +2334,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/anthropology"
+          href="file:////subject/anthropology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Anthropology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Anthropology&quot;&#x7D;"
@@ -2346,7 +2346,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/political-science"
+          href="file:////subject/political-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Political&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Political&#x20;Science&quot;&#x7D;"
@@ -2358,7 +2358,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/law"
+          href="file:////subject/law"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Law&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Law&quot;&#x7D;"
@@ -2370,7 +2370,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/urban-planning"
+          href="file:////subject/urban-planning"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Urban&#x20;Planning&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Urban&#x20;Planning&quot;&#x7D;"
@@ -2382,7 +2382,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/human-rights"
+          href="file:////subject/human-rights"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Human&#x20;Rights&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Human&#x20;Rights&quot;&#x7D;"
@@ -2394,7 +2394,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/sustainability"
+          href="file:////subject/sustainability"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Sustainability&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Sustainability&quot;&#x7D;"
@@ -2406,7 +2406,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/governance"
+          href="file:////subject/governance"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Governance&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Governance&quot;&#x7D;"
@@ -2418,7 +2418,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/archaeology"
+          href="file:////subject/archaeology"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Archaeology&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Archaeology&quot;&#x7D;"
@@ -2430,7 +2430,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/social-work"
+          href="file:////subject/social-work"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Social&#x20;Work&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Social&#x20;Work&quot;&#x7D;"
@@ -2442,7 +2442,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/social-sciences"
+          href="file:////subject/social-sciences"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Social&#x20;Sciences&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Social&#x20;Sciences&quot;&#x7D;"
@@ -2475,7 +2475,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/music"
+          href="file:////subject/music"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Music&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Music&quot;&#x7D;"
@@ -2487,7 +2487,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/digital-media"
+          href="file:////subject/digital-media"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Digital&#x20;Media&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Digital&#x20;Media&quot;&#x7D;"
@@ -2499,7 +2499,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/visual-arts"
+          href="file:////subject/visual-arts"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Visual&#x20;Arts&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Visual&#x20;Arts&quot;&#x7D;"
@@ -2511,7 +2511,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/design-and-creativity"
+          href="file:////subject/design-and-creativity"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Design&#x20;&amp;&#x20;Creativity&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Design&#x20;&amp;&#x20;Creativity&quot;&#x7D;"
@@ -2523,7 +2523,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/art-and-design"
+          href="file:////subject/art-and-design"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Art&#x20;&amp;&#x20;Design&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Art&#x20;&amp;&#x20;Design&quot;&#x7D;"
@@ -2556,7 +2556,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/bioinformatics"
+          href="file:////subject/bioinformatics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Bioinformatics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Bioinformatics&quot;&#x7D;"
@@ -2568,7 +2568,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/big-data"
+          href="file:////subject/big-data"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Big&#x20;Data&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Big&#x20;Data&quot;&#x7D;"
@@ -2580,7 +2580,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/data-mining"
+          href="file:////subject/data-mining"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Data&#x20;Mining&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Data&#x20;Mining&quot;&#x7D;"
@@ -2592,7 +2592,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/data-analysis"
+          href="file:////subject/data-analysis"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Data&#x20;Analysis&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Data&#x20;Analysis&quot;&#x7D;"
@@ -2604,7 +2604,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/data-visualization"
+          href="file:////subject/data-visualization"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Data&#x20;Visualization&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Data&#x20;Visualization&quot;&#x7D;"
@@ -2616,7 +2616,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/jupyter"
+          href="file:////subject/jupyter"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Jupyter&#x20;Notebooks&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Jupyter&#x20;Notebooks&quot;&#x7D;"
@@ -2628,7 +2628,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/data-science"
+          href="file:////subject/data-science"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Data&#x20;Science&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Data&#x20;Science&quot;&#x7D;"
@@ -2661,7 +2661,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/mobile-development"
+          href="file:////subject/mobile-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Mobile&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Mobile&#x20;Development&quot;&#x7D;"
@@ -2673,7 +2673,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/web-development"
+          href="file:////subject/web-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Web&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Web&#x20;Development&quot;&#x7D;"
@@ -2685,7 +2685,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/databases"
+          href="file:////subject/databases"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Databases&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Databases&quot;&#x7D;"
@@ -2697,7 +2697,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/game-development"
+          href="file:////subject/game-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Game&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Game&#x20;Development&quot;&#x7D;"
@@ -2709,7 +2709,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/programming-languages"
+          href="file:////subject/programming-languages"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Programming&#x20;Languages&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Programming&#x20;Languages&quot;&#x7D;"
@@ -2721,7 +2721,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/software-development"
+          href="file:////subject/software-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Software&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Software&#x20;Development&quot;&#x7D;"
@@ -2733,7 +2733,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/cloud-computing"
+          href="file:////subject/cloud-computing"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Cloud&#x20;Computing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Cloud&#x20;Computing&quot;&#x7D;"
@@ -2745,7 +2745,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/programming-and-software-development"
+          href="file:////subject/programming-and-software-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Programming&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Programming&quot;&#x7D;"
@@ -2778,7 +2778,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/communication-skills"
+          href="file:////subject/communication-skills"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Communication&#x20;Skills&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Communication&#x20;Skills&quot;&#x7D;"
@@ -2790,7 +2790,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/career-development"
+          href="file:////subject/career-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Career&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Career&#x20;Development&quot;&#x7D;"
@@ -2802,7 +2802,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/self-improvement"
+          href="file:////subject/self-improvement"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Self&#x20;Improvement&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Self&#x20;Improvement&quot;&#x7D;"
@@ -2814,7 +2814,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/presentation-skills"
+          href="file:////subject/presentation-skills"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Presentation&#x20;Skills&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Presentation&#x20;Skills&quot;&#x7D;"
@@ -2826,7 +2826,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/resilience"
+          href="file:////subject/resilience"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Resilience&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Resilience&quot;&#x7D;"
@@ -2838,7 +2838,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/personal-development"
+          href="file:////subject/personal-development"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Personal&#x20;Development&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Personal&#x20;Development&quot;&#x7D;"
@@ -2871,7 +2871,7 @@
             <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/cybersecurity"
+          href="file:////subject/cybersecurity"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Cybersecurity&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Cybersecurity&quot;&#x7D;"
@@ -2883,7 +2883,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/network-security"
+          href="file:////subject/network-security"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Network&#x20;Security&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Network&#x20;Security&quot;&#x7D;"
@@ -2895,7 +2895,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/ethical-hacking"
+          href="file:////subject/ethical-hacking"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Ethical&#x20;Hacking&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Ethical&#x20;Hacking&quot;&#x7D;"
@@ -2907,7 +2907,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/digital-forensics"
+          href="file:////subject/digital-forensics"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Digital&#x20;Forensics&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Digital&#x20;Forensics&quot;&#x7D;"
@@ -2919,7 +2919,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/reverse-engineering"
+          href="file:////subject/reverse-engineering"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Reverse&#x20;Engineering&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Reverse&#x20;Engineering&quot;&#x7D;"
@@ -2931,7 +2931,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/pentesting"
+          href="file:////subject/pentesting"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Penetration&#x20;Testing&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Penetration&#x20;Testing&quot;&#x7D;"
@@ -2943,7 +2943,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/malware-analysis"
+          href="file:////subject/malware-analysis"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Malware&#x20;Analysis&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Malware&#x20;Analysis&quot;&#x7D;"
@@ -2955,7 +2955,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/devsecops"
+          href="file:////subject/devsecops"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;DevSecOps&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;DevSecOps&quot;&#x7D;"
@@ -2967,7 +2967,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/osint"
+          href="file:////subject/osint"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;OSINT&#x20;&#x28;Open&#x20;Source&#x20;Intelligence&#x29;&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;OSINT&#x20;&#x28;Open&#x20;Source&#x20;Intelligence&#x29;&quot;&#x7D;"
@@ -2979,7 +2979,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/threat-intelligence"
+          href="file:////subject/threat-intelligence"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Threat&#x20;Intelligence&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Threat&#x20;Intelligence&quot;&#x7D;"
@@ -2991,7 +2991,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/infosec-certifications"
+          href="file:////subject/infosec-certifications"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Information&#x20;Security&#x20;Certifications&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Information&#x20;Security&#x20;Certifications&quot;&#x7D;"
@@ -3003,7 +3003,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/red-team"
+          href="file:////subject/red-team"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Red&#x20;Team&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Red&#x20;Team&quot;&#x7D;"
@@ -3015,7 +3015,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control color-charcoal"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/blue-team"
+          href="file:////subject/blue-team"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Blue&#x20;Team&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject-child&quot;,&quot;label&quot;&#x3A;&quot;Blue&#x20;Team&quot;&#x7D;"
@@ -3027,7 +3027,7 @@
                 <li class="main-nav-dropdown__item">
         <a
           class="main-nav-dropdown__item-control--highlighted"
-          href="file:///var/www/html/classCentral/www.classcentral.com//subject/infosec"
+          href="file:////subject/infosec"
                                     data-track-click="nav_click"
                                                 data-track-props="&#x7B;&quot;type&quot;&#x3A;&quot;Subject&quot;,&quot;title&quot;&#x3A;&quot;Information&#x20;Security&#x20;&#x28;InfoSec&#x29;&quot;&#x7D;"
                                                 data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;nav_click&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Information&#x20;Security&#x20;&#x28;InfoSec&#x29;&quot;&#x7D;"
@@ -3331,7 +3331,7 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="file:///var/www/html/classCentral/www.classcentral.com//subject/data-analysis" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cData&#x20;Analysis&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="file:////subject/data-analysis" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cData&#x20;Analysis&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Data Analysis</p>
@@ -3343,7 +3343,7 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="file:///var/www/html/classCentral/www.classcentral.com//subject/design-and-creativity" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cDesign&#x20;&amp;&#x20;Creativity&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="file:////subject/design-and-creativity" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cDesign&#x20;&amp;&#x20;Creativity&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Design &amp; Creativity</p>
@@ -3355,7 +3355,7 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="file:///var/www/html/classCentral/www.classcentral.com//subject/digital-marketing" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cDigital&#x20;Marketing&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="file:////subject/digital-marketing" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;subject&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cDigital&#x20;Marketing&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-subject-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Digital Marketing</p>
@@ -3373,7 +3373,7 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="file:///var/www/html/classCentral/www.classcentral.com//course/improving-study-techniques-13420" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cImproving&#x20;Your&#x20;Study&#x20;Techniques&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="file:////course/improving-study-techniques-13420" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cImproving&#x20;Your&#x20;Study&#x20;Techniques&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Improving Your Study Techniques</p>
@@ -3385,7 +3385,7 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="file:///var/www/html/classCentral/www.classcentral.com//course/managing-human-resources-5462" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cPreparing&#x20;to&#x20;Manage&#x20;Human&#x20;Resources&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="file:////course/managing-human-resources-5462" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cPreparing&#x20;to&#x20;Manage&#x20;Human&#x20;Resources&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">Preparing to Manage Human Resources</p>
@@ -3397,7 +3397,7 @@
                                                                                                 
                         
                         
-                                                    <a class="search-results__result js-autocomplete-result" href="file:///var/www/html/classCentral/www.classcentral.com//course/musculoskeletal-6738" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cThe&#x20;Musculoskeletal&#x20;System&#x3A;&#x20;The&#x20;Science&#x20;of&#x20;Staying&#x20;Active&#x20;into&#x20;Old&#x20;Age&#x5C;u201d&quot;&#x7D;">
+                                                    <a class="search-results__result js-autocomplete-result" href="file:////course/musculoskeletal-6738" data-track-ga="&#x7B;&quot;category&quot;&#x3A;&quot;autocomplete&#x20;empty&#x20;state&quot;,&quot;action&quot;&#x3A;&quot;course&quot;,&quot;label&quot;&#x3A;&quot;Entry&#x3A;&#x20;&#x5C;u201cThe&#x20;Musculoskeletal&#x20;System&#x3A;&#x20;The&#x20;Science&#x20;of&#x20;Staying&#x20;Active&#x20;into&#x20;Old&#x20;Age&#x5C;u201d&quot;&#x7D;">
                                 <i class="search-results__result-icon icon-course-charcoal icon-small"></i>
                                 <div class="search-results__result-info">
                                     <p class="search-results__result-name">The Musculoskeletal System: The Science of Staying Active into Old Age</p>
@@ -3554,7 +3554,7 @@
   <section class="width-centered large-up-width-3-4">
     <h1 class="head-1 text-center padding-large medium-up-padding-xxlarge">Contact Us</h1>
     <p class="text-1 line-wide">Class Central is a listing of <a class="link-gray-underline" href="index.html">online courses</a>. We aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist. To learn more about Class Central, visit our <a class="link-gray-underline" href="about">About</a> page.
-      To learn more about MOOCs and online education, get started with our <a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/moocs">Beginner's Guide to MOOCs</a>.
+      To learn more about MOOCs and online education, get started with our <a class="link-gray-underline" href="file:////help/moocs">Beginner's Guide to MOOCs</a>.
     </p>
   </section>
 
@@ -3563,17 +3563,17 @@
       <div class="border-box width-100 medium-up-width-1-2 medium-up-padding-right-small margin-bottom-large">
         <div class="border-all border-gray height-100">
           <h3 class="head-3 border-bottom border-gray-light padding-horz-large padding-vert-small">
-            <a href="file:///var/www/html/classCentral/www.classcentral.com//help" class="hover-no-underline color-charcoal row vert-align-middle">
+            <a href="file:////help" class="hover-no-underline color-charcoal row vert-align-middle">
              <i class="icon-help-chat-blue icon-large margin-right-xsmall"></i>
             FAQ
             </a>
           </h3>
 
           <ul class="text-1 list-no-style padding-horz-large margin-top-large margin-bottom-xlarge border-gray-light">
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/faq-what-are-moocs">What are MOOCs?</a></li>
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/faq-how-enroll">How do I enroll/register for a course?</a></li>
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/account-what-class-central">What is Class Central?</a></li>
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/moocs-cost">Are these online courses (MOOCs) really free?</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/faq-what-are-moocs">What are MOOCs?</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/faq-how-enroll">How do I enroll/register for a course?</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/account-what-class-central">What is Class Central?</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/moocs-cost">Are these online courses (MOOCs) really free?</a></li>
           </ul>
         </div>
       </div>
@@ -3581,23 +3581,23 @@
       <div style="left: -1px;" class="relative border-box width-100 medium-up-width-1-2 medium-up-padding-left-small margin-bottom-large">
         <div class="border-all border-gray height-100">
           <h3 class="head-3 border-bottom border-gray-light padding-horz-large padding-vert-small">
-            <a href="file:///var/www/html/classCentral/www.classcentral.com//help" class="hover-no-underline color-charcoal row vert-align-middle">
+            <a href="file:////help" class="hover-no-underline color-charcoal row vert-align-middle">
              <i class="icon-collection-blue icon-large margin-right-xsmall"></i>
             Provider FAQs
             </a>
           </h3>
 
           <ul class="text-1 list-no-style padding-horz-large margin-top-large margin-bottom-xlarge border-gray-light">
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/section/coursera">Coursera</a></li>
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/section/edx">EdX</a></li>
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/section/udacity">Udacity</a></li>
-            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:///var/www/html/classCentral/www.classcentral.com//help/section/futurelearn">FutureLearn</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/section/coursera">Coursera</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/section/edx">EdX</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/section/udacity">Udacity</a></li>
+            <li class="margin-vert-xxsmall"><a class="link-gray-underline" href="file:////help/section/futurelearn">FutureLearn</a></li>
           </ul>
         </div>
       </div>
     </div>
 
-    <p class="text-1 text-center">For more guides and answers, visit our <a href="file:///var/www/html/classCentral/www.classcentral.com//help">Help Center</a>.</p>
+    <p class="text-1 text-center">For more guides and answers, visit our <a href="file:////help">Help Center</a>.</p>
   </section>
 
   <section class="margin-vert-xxlarge padding-bottom-large">
@@ -3667,50 +3667,50 @@
                     <a class="color-charcoal" href="subject/cs">Computer Science</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//subject/psychology">Psychology</a>
+                    <a class="color-charcoal" href="file:////subject/psychology">Psychology</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//subject/cybersecurity">Cybersecurity</a>
+                    <a class="color-charcoal" href="file:////subject/cybersecurity">Cybersecurity</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
                     <a class="color-charcoal" href="subject/health">Health</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//subject/law">Law</a>
+                    <a class="color-charcoal" href="file:////subject/law">Law</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//subject/accounting">Accounting</a>
+                    <a class="color-charcoal" href="file:////subject/accounting">Accounting</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//subject/web-development">Web Development</a>
+                    <a class="color-charcoal" href="file:////subject/web-development">Web Development</a>
                   </li>
                               </ul>
             </div>
             <div class="width-100 large-up-width-1-3 border-box padding-right-medium margin-bottom-medium">
-              <a href="file:///var/www/html/classCentral/www.classcentral.com//providers" class="inline-block margin-bottom-xxsmall text-2 color-charcoal weight-bold border-bottom border-gray hover-no-underline">
+              <a href="file:////providers" class="inline-block margin-bottom-xxsmall text-2 color-charcoal weight-bold border-bottom border-gray hover-no-underline">
                 Browse by provider
               </a>
               <ul class="list-no-style text-2">
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/coursera">Coursera</a>
+                    <a class="color-charcoal" href="file:////provider/coursera">Coursera</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/edx">edX</a>
+                    <a class="color-charcoal" href="file:////provider/edx">edX</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/futurelearn">FutureLearn</a>
+                    <a class="color-charcoal" href="file:////provider/futurelearn">FutureLearn</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/udacity">Udacity</a>
+                    <a class="color-charcoal" href="file:////provider/udacity">Udacity</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/swayam">Swayam</a>
+                    <a class="color-charcoal" href="file:////provider/swayam">Swayam</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/udemy">Udemy</a>
+                    <a class="color-charcoal" href="file:////provider/udemy">Udemy</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//provider/linkedin-learning">LinkedIn Learning</a>
+                    <a class="color-charcoal" href="file:////provider/linkedin-learning">LinkedIn Learning</a>
                   </li>
                             
               </ul>
@@ -3746,30 +3746,30 @@
           </div>
           <div class="row width-100 medium-up-width-3-5 xlarge-up-width-1-2">
             <div class="width-100 large-up-width-2-5 border-box padding-right-medium margin-bottom-medium">
-              <a href="file:///var/www/html/classCentral/www.classcentral.com//institutions" class="inline-block margin-bottom-xxsmall text-2 color-charcoal weight-bold border-bottom border-gray hover-no-underline">
+              <a href="file:////institutions" class="inline-block margin-bottom-xxsmall text-2 color-charcoal weight-bold border-bottom border-gray hover-no-underline">
                 Browse by institution
               </a>
               <ul class="list-no-style text-2">
                                 <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/google">Google</a>
+                    <a class="color-charcoal" href="file:////institution/google">Google</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/microsoft">Microsoft</a>
+                    <a class="color-charcoal" href="file:////institution/microsoft">Microsoft</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/ibm">IBM</a>
+                    <a class="color-charcoal" href="file:////institution/ibm">IBM</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/amazon">Amazon</a>
+                    <a class="color-charcoal" href="file:////institution/amazon">Amazon</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/linuxfoundation">Linux Foundation</a>
+                    <a class="color-charcoal" href="file:////institution/linuxfoundation">Linux Foundation</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/british-council">British Council</a>
+                    <a class="color-charcoal" href="file:////institution/british-council">British Council</a>
                   </li>
                                   <li class="margin-vert-xxsmall">
-                    <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//institution/salesforce">Salesforce</a>
+                    <a class="color-charcoal" href="file:////institution/salesforce">Salesforce</a>
                   </li>
                               </ul>
             </div>
@@ -3935,7 +3935,7 @@
         </div>
 
         <div class="large-up-row vert-align-middle large-up-horz-align-left border-top border-gray-mid padding-top-medium">
-          <p>Class Central © 2011-2023 <a href="file:///var/www/html/classCentral/www.classcentral.com//about/privacy-policy" class="color-charcoal block large-up-inline-block large-up-margin-left-xsmall">Privacy Policy</a></p>
+          <p>Class Central © 2011-2023 <a href="file:////about/privacy-policy" class="color-charcoal block large-up-inline-block large-up-margin-left-xsmall">Privacy Policy</a></p>
           <ul class="list-no-style list-inline large-up-horz-align-right">
                           <li class="block large-up-inline-block large-up-padding-horz-small">
                 <a class="color-charcoal" href="about">About Us</a>
@@ -3944,7 +3944,7 @@
                 <a class="color-charcoal" href="about/careers">Join Us</a>
               </li>
                           <li class="block large-up-inline-block large-up-padding-horz-small">
-                <a class="color-charcoal" href="file:///var/www/html/classCentral/www.classcentral.com//help">Help Center</a>
+                <a class="color-charcoal" href="file:////help">Help Center</a>
               </li>
                           <li class="block large-up-inline-block large-up-padding-horz-small">
                 <a class="color-charcoal" href="contact">Contact Us</a>
@@ -4104,7 +4104,7 @@
     </p>
     <div class="text-left margin-top-small">
       <a
-        href="file:///var/www/html/classCentral/www.classcentral.com//signup?signup_source=slidein%20desktop"
+        href="file:////signup?signup_source=slidein%20desktop"
         data-track-click
         data-track-props='{ "type": "slidein_desktop_signup" }'
         class="btn-blue"
